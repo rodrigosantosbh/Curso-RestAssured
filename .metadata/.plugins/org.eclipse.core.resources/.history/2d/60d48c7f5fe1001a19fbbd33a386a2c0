@@ -1,0 +1,5 @@
+package br.ce.rodrigo.rest;
+
+public class UserJsonTest {
+
+}

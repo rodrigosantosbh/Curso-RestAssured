@@ -1,0 +1,18 @@
+package br.ce.rodrigo.rest;
+
+import static io.restassured.RestAssured.given;
+
+import io.restassured.RestAssured;
+
+public class UserJsonTest {
+
+	@Test
+	public void deveVerificarPrimeiroNivel() {
+		
+		given()
+		.when()
+			.get("http://restapi.wcaquino.me/users/1")
+		.then()
+			.statusCode(200);
+	}
+}

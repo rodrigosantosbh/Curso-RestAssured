@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="OlaMundoTest" project="CursoRest" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="br.ce.rodrigo.rest.OlaMundoTest" time="3.476">
+    <testcase name="devoValidarBody" classname="br.ce.rodrigo.rest.OlaMundoTest" time="1.946"/>
+    <testcase name="devoConhecerMatchersHamcrest" classname="br.ce.rodrigo.rest.OlaMundoTest" time="0.008"/>
+    <testcase name="testOlaMundo" classname="br.ce.rodrigo.rest.OlaMundoTest" time="0.318"/>
+    <testcase name="deveConhecerOutrasFormasRestAssured" classname="br.ce.rodrigo.rest.OlaMundoTest" time="1.204"/>
+  </testsuite>
+</testrun>
